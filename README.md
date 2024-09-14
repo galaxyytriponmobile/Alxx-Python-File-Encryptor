@@ -2,7 +2,7 @@
 
 A simple Python-based file and directory encryption tool that uses XOR-based encryption to secure files. This tool allows you to encrypt and decrypt files and directories recursively.
 
-### MADE A OBFUSCATED VERSION IF USED FOR YKNOW, STUFF I CAN SAY HERE
+### MADE AN OBFUSCATED VERSION IF USED FOR STUFF I CAN SAY HERE
 
 ## Features
 
