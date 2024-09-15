@@ -1,3 +1,5 @@
+*** IF YOU USE THE OBFUSCATED VERSION THERE IS NO GOING BACK. ***
+
 # Encryption Tool
 
 A simple Python-based file and directory encryption tool that uses XOR-based encryption to secure files. This tool allows you to encrypt and decrypt files and directories recursively.
