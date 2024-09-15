@@ -1,5 +1,7 @@
 # ⚠️DONT USE ENCRYPTOR IN THE SAME DIRECTORY IN WHICH YOU ARE IN⚠️
 
+# ENCRYPTION AND DECRYPTION KEY IS 123
+
 # Encryption Tool
 
 A simple Python-based file and directory encryption tool that uses XOR-based encryption to secure files. This tool allows you to encrypt and decrypt files and directories recursively.
