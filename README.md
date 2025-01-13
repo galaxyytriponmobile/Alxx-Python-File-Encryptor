@@ -2,11 +2,11 @@
 
 # ENCRYPTION AND DECRYPTION KEY IS 123
 
-# Encryption Tool
+# ALXX-CRYPTER
 
 A simple Python-based file and directory encryption tool that uses XOR-based encryption to secure files. This tool allows you to encrypt and decrypt files and directories recursively.
 
-### MADE AN OBFUSCATED VERSION IF USED FOR STUFF I CANT SAY HERE
+### MADE AN OBFUSCATED VERSION IF USED FOR COVERING ANY TRACKS.
 
 ## Features
 
