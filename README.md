@@ -68,6 +68,8 @@ This will decrypt all `.encrypted` files in `/path/to/directory` recursively.
 - The encryption key must be the same for both encryption and decryption.
 - Encrypted files are renamed during the encryption process, so ensure you have the proper key to restore them.
 
+
+Made with AI (chatgpt), expect errors.
 ## License
 
 This project is licensed under the MIT License.
